@@ -29,6 +29,7 @@ export default function Home() {
               height={24}
               priority
             />
+            <h1 className='text-center text-white font-bold'>PELL PELL</h1>
           </a>
         </div>
       </div>
